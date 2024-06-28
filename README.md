@@ -1,5 +1,6 @@
 # Used Car Price Prediction
 
+![Vehicle Analysis](Car-price-prediction-case-study.png)
 
 ## Overview
 This is based on the KaggleX Fellowship Skill Assessment challenge. The goal is to predict the prices of used vehicles
